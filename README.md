@@ -2,9 +2,10 @@
 
 
 # Description
+
 This project is an interactive dashboard built to analyze Uber rides data, providing insights into trip counts, purposes, mileage, and trends over time. The dashboard is designed to assist users in better understanding the distribution and behavior of Uber rides across various categories and metrics.
 
-Tools:
+# Tools:
 - Power Query power query data cleaning
   
 - DAX : For data preparation, calculations, and measures.
@@ -26,7 +27,8 @@ Tools:
 ![Dashboard.png](Dashboard.png)
 
 
-Conclusion
+# Conclusion
+
 This project provides comprehensive insights into Uber rides data, including trends in trip counts, mileage, purposes, and monthly distributions.
 
 The interactive dashboard enables users to explore data dynamically, uncover key patterns, and make data-driven decisions to optimize travel strategies and analyze trip behaviors effectively.
